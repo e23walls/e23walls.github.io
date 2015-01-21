@@ -1,6 +1,4 @@
-website
+My Website
 =======
 
-Website template for WiCS' "Make Your Own Website on Github" Day
-
-This isn't finished yet...
+I consider myself a computer programmer, not a web developer. Appearance is important, but functionality is more so. ;)
